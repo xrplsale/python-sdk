@@ -2,7 +2,7 @@
 
 Official Python SDK for integrating with the XRPL.Sale platform - the native XRPL launchpad for token sales and project funding.
 
-[![PyPI version](https://badge.fury.io/py/xrpl-sale.svg)](https://pypi.org/project/xrpl-sale/)
+[![PyPI version](https://badge.fury.io/py/xrplsale.svg)](https://pypi.org/project/xrplsale/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -22,25 +22,25 @@ Official Python SDK for integrating with the XRPL.Sale platform - the native XRP
 ## Installation
 
 ```bash
-pip install xrpl-sale
+pip install xrplsale
 ```
 
 For development with additional tools:
 
 ```bash
-pip install xrpl-sale[dev]
+pip install xrplsale[dev]
 ```
 
 For Django integration:
 
 ```bash
-pip install xrpl-sale[django]
+pip install xrplsale[django]
 ```
 
 For FastAPI integration:
 
 ```bash
-pip install xrpl-sale[fastapi]
+pip install xrplsale[fastapi]
 ```
 
 ## Quick Start
@@ -464,7 +464,7 @@ mypy xrpl_sale
 
 ## Support
 
-- 📖 [Documentation](https://docs.xrpl.sale)
+- 📖 [Documentation](https://www.xrpl.sale/documentation)
 - 💬 [Discord Community](https://discord.gg/xrpl-sale)
 - 🐛 [Issue Tracker](https://github.com/xrplsale/python-sdk/issues)
 - 📧 [Email Support](mailto:developers@xrpl.sale)
@@ -476,8 +476,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Links
 
 - [XRPL.Sale Platform](https://xrpl.sale)
-- [API Documentation](https://docs.xrpl.sale/api)
-- [Other SDKs](https://docs.xrpl.sale/developers/sdk-downloads)
+- [API Documentation](https://www.xrpl.sale/documentation/api-reference)
+- [Other SDKs](https://www.xrpl.sale/documentation/developers/sdk-downloads)
 - [GitHub Organization](https://github.com/xrplsale)
 
 ---
