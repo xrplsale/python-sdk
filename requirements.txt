@@ -1,0 +1,11 @@
+# Core dependencies
+aiohttp>=3.8.0
+pydantic>=2.0.0
+xrpl-py>=2.7.0
+
+# Optional dependencies for specific features
+cryptography>=41.0.0
+typing-extensions>=4.5.0
+
+# For Python < 3.9 compatibility
+backports.zoneinfo>=0.2.1;python_version<"3.9"
